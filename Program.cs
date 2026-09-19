@@ -1,4 +1,4 @@
-﻿Console.WriteLine("| Média Aritmética:|");
+﻿Console.WriteLine("| Média-Aritmética |");
 double numero1, numero2, numero3, média; 
 
 Console.WriteLine("Digite seu primeiro número: ");
